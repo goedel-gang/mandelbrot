@@ -1,4 +1,4 @@
-#The usage of the "mandelbrot" program:
+# The usage of the "mandelbrot" program:
 
 general:
 
