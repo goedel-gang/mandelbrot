@@ -67,10 +67,3 @@ saving pictures and serializing:
 my way to get nice pictures: find something you think will look interesting,
 and do rough navigation in a low limit and small screen size, THEN enhance and
 set to full screen.
-
-This is a program that renders the mandelbrot set. This set is defined as the
-set of the complex numbers, c such that there is no divergence when 0 is
-iterated under f(z) = z^2 + c The program works by simply iterating and
-observing if this number becomes large.  The speed of divergence is then used
-to give colourings.  The parameters kept track of are - x, y, scale, iteration
-cap, multibrot value (alternative exponent for z), width and height.
