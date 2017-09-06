@@ -5,8 +5,8 @@ It supports some mildly sophisticated serialisation - in string format. Any rend
 
 Here are three randomly chosen screenshots from my travels:
 
-![screenshot](https://github.com/elterminad0r/mandelbrot/blob/master/data/mandel1.png)
-![screenshot](https://github.com/elterminad0r/mandelbrot/blob/master/data/mandel2.png)
-![screenshot](https://github.com/elterminad0r/mandelbrot/blob/master/data/mandel3.png)
+![screenshot](https://github.com/elterminad0r/mandelbrot/blob/master/screenshots/mandel1.png)
+![screenshot](https://github.com/elterminad0r/mandelbrot/blob/master/screenshots/mandel2.png)
+![screenshot](https://github.com/elterminad0r/mandelbrot/blob/master/screenshots/mandel3.png)
 
 [Here](https://drive.google.com/drive/folders/0B3EHq-o9udUMQ2pyZlJKQWZlcDA?usp=sharing) is my full collection of higher quality serialisations for ayone interested.
